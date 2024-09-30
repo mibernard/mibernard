@@ -14,8 +14,6 @@ I'm a Frontend developer passionate about creating dynamic and responsive web ap
 - AI Integrations with customer support platforms
 
 ### Key Projects
-- [AI-Powered Customer Support Chatbot](https://github.com/mibernard/customer-support-chatbot)
-  - An AI-driven chatbot designed to integrate with platforms like Zendesk and Freshdesk.
 - [Event App](https://github.com/mibernard/event-app)
   - A full-stack event management application built with React and Node.js, allowing users to create, manage, and join events. Features include user authentication, real-time updates, and a responsive design.
 
