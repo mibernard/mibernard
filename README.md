@@ -10,8 +10,10 @@ I'm a Frontend developer passionate about creating dynamic and responsive web ap
 - **Tools & Methodologies**: Git/GitHub, Agile, Zustand, Full-stack Development, UX/UI Design, WordPress, CMS
 
 ### What I'm Learning
-- Advanced React Patterns
-- AI Integrations with Customer Support Platforms
+- **Scalable Frontend Architectures**: Exploring advanced React patterns and state management solutions like Zustand to build responsive and maintainable web applications.
+- **Full-Stack Development**: Enhancing integration between frontend frameworks like Next.js and backend technologies such as Node.js and Firebase.
+- **Search Optimization**: Improving user experiences by implementing intuitive and efficient search functionalities, as showcased in AlgoLearn.
+- **UI/UX Enhancements**: Leveraging tools like TailwindCSS and Shadcn to craft visually appealing and accessible user interfaces for diverse audiences.
 
 ### Key Projects
 - [AlgoLearn](https://algo-learn.com/)
