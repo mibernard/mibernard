@@ -16,7 +16,7 @@ I'm a Frontend developer passionate about creating dynamic and responsive web ap
 - **UI/UX Enhancements**: Leveraging tools like TailwindCSS and Shadcn to craft visually appealing and accessible user interfaces for diverse audiences.
 
 ### Key Projects
-- [AlgoLearn](https://algo-learn.com/)
+- [AlgoLearn](https://github.com/mibernard/algolearn)
   - A developer portal for building decentralized applications with Algorand smart contracts. Built with Next.js, TailwindCSS, and Shadcn, and hosted on Vercel, it offers:
     - **Comprehensive Documentation**: Detailed guides and tutorials for Algorand smart contract development.
     - **Multi-Language Support**: Code execution and support for Python, JavaScript, and Go SDKs.
