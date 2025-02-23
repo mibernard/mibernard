@@ -9,6 +9,8 @@ I'm a Frontend developer passionate about creating dynamic and responsive web ap
 - **Back-End/Databases**: Node.js, Express, MongoDB, Firebase, Clerk, RESTful APIs
 - **Tools & Methodologies**: Git/GitHub, Docker, Agile, Zustand, Full-stack Development, UX/UI Design, WordPress, CMS
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mibernard&layout=compact&theme=nightowl&hide_border=true&exclude_repo=the-www-blog,clean-water-foundation&langs_count=6)
+
 ### What I'm Learning
 - **Scalable Frontend Architectures**: Exploring advanced React patterns and state management solutions like Zustand to build responsive and maintainable web applications.
 - **Full-Stack Development**: Enhancing integration between frontend frameworks like Next.js and backend technologies such as Node.js and Firebase.
