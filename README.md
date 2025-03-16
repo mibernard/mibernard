@@ -1,7 +1,7 @@
 # Hi, I'm Matthew 👋
 
 ### About Me
-I'm a Frontend developer passionate about creating dynamic and responsive web applications.
+I'm a Software Engineer passionate about creating dynamic and responsive web applications.
 
 ### Skills & Tools
 - **Languages**: JavaScript, TypeScript, Python, HTML, CSS, C++, Java
