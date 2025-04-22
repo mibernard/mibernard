@@ -66,4 +66,4 @@ I'm a Software Engineer passionate about creating dynamic and accessible web app
 
 ### 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matthewbernard)
-[![Website](https://img.shields.io/badge/-Portfolio-FF7139?logo=firefox&logoColor=white)](https://matthewbernard.dev)
+
