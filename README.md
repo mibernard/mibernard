@@ -1,7 +1,7 @@
 # Hi, I'm Matthew 👋
 
 ### 🚀 About Me
-I'm a Software Engineer passionate about creating dynamic and accessible web applications (100% Hackathon winrate!). I specialize in full-stack development with a focus on AI integration and intuitive UX.
+I'm a Software Engineer passionate about creating dynamic and accessible web applications . I specialize in full-stack development with a focus on AI integration and intuitive UX. I also have a 100% hackathon winrate 😎
 
 ### 🛠️ Skills & Tools
 **Languages**  
