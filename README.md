@@ -35,7 +35,7 @@ I'm a Software Engineer passionate about creating dynamic and accessible web app
 ### 🏆 Key Projects
 
 #### [MedScribe](https://github.com/mibernard/MedScribe) 🩺✨
-**AI-Powered Healthcare Automation Platform (DavisHacks Winner🏆)**
+**AI-Agent Healthcare Platform (DavisHacks Winner🏆)**
 
 **Features**:
 - Real-time AI medical transcription
