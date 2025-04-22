@@ -15,7 +15,6 @@ I'm a Software Engineer passionate about creating dynamic and accessible web app
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwind-css&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?&logo=vue.js&logoColor=white)
-![Shadcn](https://img.shields.io/badge/Shadcn-000000?&logo=shadcn&logoColor=white)
 
 **Backend**  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
