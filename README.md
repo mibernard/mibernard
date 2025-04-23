@@ -1,9 +1,9 @@
 # Hi, I'm Matthew 👋
 
-### 🚀 About Me
+### About Me
 I'm a Software Engineer passionate about creating dynamic and accessible web applications . I specialize in full-stack development with a focus on AI integration and intuitive UX. I also have a 100% hackathon winrate 😎
 
-### 🛠️ Skills & Tools
+### Skills & Tools
 **Languages**  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
@@ -25,16 +25,15 @@ I'm a Software Engineer passionate about creating dynamic and accessible web app
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/-Gemini-4285F4?logo=google&logoColor=white)
 
-### 📊 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mibernard&layout=compact&theme=nightowl&hide_border=true&exclude_repo=the-www-blog,clean-water-foundation&langs_count=6)
 
-### 🌱 Currently Learning
+### Currently Learning
 - AI/ML integration in fullstack applications
 - UI/UX best practices with TailwindCSS/Shadcn
 
-### 🏆 Key Projects
+### Key Projects
 
-#### [MedScribe](https://github.com/mibernard/MedScribe) 🩺✨
+#### [MedScribe](https://github.com/mibernard/MedScribe) 
 **AI-Agent Healthcare Platform (DavisHacks Winner🏆)**
 
 **Features**:
