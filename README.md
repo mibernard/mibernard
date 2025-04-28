@@ -43,23 +43,29 @@ I'm a Software Engineer passionate about creating dynamic and accessible web app
 - Calendar integration for scheduling
 - Workflow automation tools
 
-**Tech Stack**:
-- Next.js 15 | Tailwind CSS | ShadCN
-- Google Gemini | ElevenLabs | Twilio
-- Node.js | MongoDB Atlas | Fastify
-- Meta Ray-Ban Glasses integration
+**Tech Stack:**
+- **Frontend:** Next.js 15, Tailwind CSS, ShadCN/UI  
+- **Backend:** Node.js, Fastify, MongoDB Atlas  
+- **API Integrations:** Google Gemini, ElevenLabs, Twilio  
+- **Hardware:** Meta Ray-Ban Glasses  
 
-#### [AlgoLearn](https://github.com/mibernard/algolearn)
+#### [AlgoLearn](https://github.com/mibernard/algolearn)  
 **Algorand Developer Portal**
-- Next.js + TailwindCSS + Shadcn
-- Multi-language smart contract support
-- Dynamic search functionality
 
-#### [Evently](https://github.com/mibernard/event-app)
-**Full-Stack Event Management**
-- React + Node.js + MongoDB
-- Real-time updates
-- Responsive design
+**Features:**
+- Interactive algorithm practice with step-by-step implementations  
+- Powerful real-time search by title, content, or code snippets  
+- Multi-language code compilation & testing (Python, JavaScript, Go, etc.)  
+- Seamless Algorand SDK support (`py-algorand-sdk`, `algosdk`, `go-algorand-sdk`)  
+- Clean, responsive UI with dark mode toggle and accessibility (ARIA)  
+- Isolated Docker-based code-runner for secure, ephemeral snippet execution  
+
+**Tech Stack:**
+- **Frontend:** Next.js (TypeScript), Tailwind CSS, Shadcn/UI, Lucide React, Axios, React Suspense  
+- **Backend & Code-Runner:** Next.js API Routes; Express/Node.js server orchestrating Docker (Alpine) with Python, Node, Go & pinned Algorand SDKs  
+- **Containerization:** Docker image bundling `py-algorand-sdk`, `algosdk`, `go-algorand-sdk`  
+- **Deployment:** Vercel (frontend) & GCP e2-micro VM with PM2 (backend)  
+- **Dev Tools:** TypeScript, ESLint, Prettier, GitHub 
 
 ---
 
