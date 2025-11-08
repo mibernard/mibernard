@@ -37,6 +37,7 @@ I'm a Software Engineer focused on building scalable, accessible full-stack appl
 
 ### Currently Learning
 - AI/ML integration in fullstack applications
+- AWS architecture design patterns
 - UI/UX best practices with TailwindCSS/Shadcn
 
 ### Key Projects
