@@ -1,7 +1,7 @@
 # Hi, I'm Matthew 👋
 
 ### About Me
-I'm a Software Engineer focused on building scalable, accessible full-stack applications with strong cloud integration. I bring experience across AWS, GCP, and modern frameworks like Next.js and Vue, with a passion for intuitive UX and AI-powered workflows. Also proud to maintain a 100% hackathon win rate 😎
+I'm a Software Engineer focused on building scalable, accessible full-stack applications with strong cloud integration. I bring experience across AWS, GCP, and modern frameworks like Next.js and Vue, with a passion for intuitive UX and AI-powered workflows.
 
 ### Skills & Tools
 **Languages**  
