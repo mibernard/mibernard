@@ -33,8 +33,9 @@ I'm a Software Engineer focused on building scalable, accessible full-stack appl
 ![GCP](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=googlecloud&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white)
 
+<!-- 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mibernard&layout=compact&theme=nightowl&hide_border=true&exclude_repo=the-www-blog,clean-water-foundation&langs_count=6)
-
+-->
 ### Currently Learning
 - AI/ML integration in fullstack applications
 - AWS architecture design patterns
